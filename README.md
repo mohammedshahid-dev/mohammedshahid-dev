@@ -8,5 +8,5 @@ I am a Full-Stack Developer and Information Science undergraduate based in Benga
 * **Tools & Concepts:** REST APIs, Git, Object-Oriented Programming
 
 **📫 Let's Connect:**
-* [LinkedIn](https://www.linkedin.com/in/mohammed-shahid-dev)
+* [LinkedIn](https://www.linkedin.com/in/mohammedshahid-dev)
 * Email: Shahidmohammed9206@gmail.com
