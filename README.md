@@ -9,4 +9,4 @@ I am a Full-Stack Developer and Information Science undergraduate based in Benga
 
 **📫 Let's Connect:**
 * [LinkedIn](https://www.linkedin.com/in/mohammedshahid-dev)
-* Email: Shahidmohammed9206@gmail.com
+* Email: contact.mohammedshahiddev@gmail.com
