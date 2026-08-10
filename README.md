@@ -1,12 +1,39 @@
-### Hi there, I'm Mohammed Shahid 👋
+# Hi there, I'm Mohammed 👋
 
-I am a Full-Stack Developer and Information Science undergraduate based in Bengaluru. I specialize in building responsive web applications and writing clean, efficient code.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Information+Science+%26+Engineering+Student;Full-Stack+Developer;Always+Learning+and+Building" alt="Typing SVG" />
+</div>
 
-**💻 My Tech Stack:**
-* **Languages:** Java, JavaScript, SQL
-* **Frontend:** HTML, CSS, React
-* **Tools & Concepts:** REST APIs, Git, Object-Oriented Programming
+<br/>
 
-**📫 Let's Connect:**
-* [LinkedIn](https://www.linkedin.com/in/mohammedshahid-dev)
-* Email: contact.mohammedshahiddev@gmail.com
+### 👨‍💻 About Me
+- 🎓 Currently studying Information Science and Engineering at Jyothy Institute of Technology
+- 💻 Building full-stack applications and exploring scalable architectures
+- ⚡ Integrating tools like GitHub Copilot to optimize development workflows
+- 🌱 Currently deep-diving into advanced JavaScript data structures and backend integrations
+- 📫 How to reach me: **[Add your Email or LinkedIn here]**
+
+### 🛠️ Tech Stack & Tools
+<div align="left">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</div>
+
+<br/>
+
+### 📊 GitHub Stats
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mohammedshahid-dev&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedshahid-dev&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<br/>
+
+### 🐍 My Contributions
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mohammedshahid-dev/mohammedshahid-dev/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
