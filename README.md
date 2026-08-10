@@ -21,9 +21,10 @@
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/github%20copilot-%23000000.svg?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
+  <img src="https://img.shields.io/badge/Microsoft%20Designer-%230078D4.svg?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Designer" />
 </div>
-
-<br/>
 
 ### 📊 GitHub Stats
 <div align="center">
