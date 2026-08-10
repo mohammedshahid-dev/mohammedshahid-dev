@@ -30,6 +30,7 @@
   <img height="180" src="https://github-readme-stats.shion.dev/api?username=mohammedshahid-dev&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=mohammedshahid-dev&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
+
 ### 🐍 My Contributions
 <div align="center">
   <img src="https://raw.githubusercontent.com/mohammedshahid-dev/mohammedshahid-dev/output/github-contribution-grid-snake.svg" alt="Snake animation" />
