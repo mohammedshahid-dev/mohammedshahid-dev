@@ -11,7 +11,7 @@
 - 💻 Building full-stack applications and exploring scalable architectures
 - ⚡ Integrating tools like GitHub Copilot to optimize development workflows
 - 🌱 Currently deep-diving into advanced JavaScript data structures and backend integrations
-- 📫 How to reach me: **[Add your Email or LinkedIn here]**
+- 📫 How to reach me: https://www.linkedin.com/in/mohammedshahid-dev
 
 ### 🛠️ Tech Stack & Tools
 <div align="left">
