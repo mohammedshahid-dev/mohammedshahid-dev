@@ -27,8 +27,8 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img height="180" src="https://github-readme-stats.shion.dev/api?username=mohammedshahid-dev&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=mohammedshahid-dev&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.shion.dev/api?username=mohammedshahid-dev&show_icons=true&bg_color=0b0f19&title_color=ff8c00&text_color=a8b2d1&icon_color=00ced1&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=mohammedshahid-dev&layout=compact&bg_color=0b0f19&title_color=ff8c00&text_color=a8b2d1&hide_border=true" />
 </div>
 
 ### 🐍 My Contributions
