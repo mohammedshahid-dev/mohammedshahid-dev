@@ -1,4 +1,4 @@
-# Hi there, I'm Mohammed 👋
+# Hi there, I'm Mohammed Shahid 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Information+Science+%26+Engineering+Student;Full-Stack+Developer;Always+Learning+and+Building" alt="Typing SVG" />
@@ -36,4 +36,3 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/mohammedshahid-dev/mohammedshahid-dev/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div> 
-
