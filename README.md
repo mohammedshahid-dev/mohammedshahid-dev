@@ -10,7 +10,7 @@
 - 🎓 Currently Studying Information Science and Engineering at Jyothy Institute of Technology
 - 💻 Building full-stack applications and exploring scalable architectures
 - ⚡ Integrating tools like GitHub Copilot to optimize development workflows
-- 🌱 Currently deep-diving into advanced JavaScript data structures and backend integrations
+- 🌱 Currently deep-diving into advanced JavaScript stotrage structures and backend integrations
 - 📫 How to reach me: https://www.linkedin.com/in/mohammedshahid-dev
 
 ### 🛠️ Tech Stack & Tools
