@@ -19,7 +19,7 @@
 
 ---
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/d3vdebug/pixelartgifs/master/Aseprite/coding.gif" alt="Coding Animation" />
+<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding Animation" />
 
 ### 👨‍💻 About Me
 * 🎓 Currently studying **Information Science and Engineering** at **Jyothy Institute of Technology**.
