@@ -19,15 +19,11 @@
 
 ---
 
-<img align="right" width="250" src="https://i.pinimg.com/originals/a0/fc/cb/a0fccb483c6b2ba72dbde30dc655d4d3.gif" alt="Pixel Art Coding GIF" />
-
 ### 👨‍💻 About Me
 * 🎓 Currently studying **Information Science and Engineering** at **Jyothy Institute of Technology**.
 * 💻 Building full-stack applications and exploring scalable software architectures.
 * ⚡ Integrating tools like **GitHub Copilot** to optimize development workflows.
 * 🚀 Currently deep-diving into advanced **JavaScript data structures** and backend integrations.
-
-<br clear="both"/>
 
 ---
 
