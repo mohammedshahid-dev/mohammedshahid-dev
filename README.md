@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mohammed&fontSize=50&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,100:23272e&height=200&section=header&text=Mohammed&fontSize=70&fontColor=39D353&animation=fadeIn" width="100%"/>
 
 <h2 align="center">Hi there, I'm Mohammed 👋</h2>
 <p align="center">
@@ -37,17 +37,10 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohammedshahid-dev&theme=tokyonight&margin-w=15&column=7&no-frame=true" alt="Trophies" />
-</p>
-
----
-
 ### 📊 GitHub Stats & Metrics
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=mohammedshahid-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mohammedshahid-dev&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img height="180" src="https://github-readme-stats.shion.dev/api?username=mohammedshahid-dev&show_icons=true&bg_color=0b0f19&title_color=ff8c00&text_color=a8b2d1&icon_color=00ced1&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=mohammedshahid-dev&layout=compact&bg_color=0b0f19&title_color=ff8c00&text_color=a8b2d1&hide_border=true" />
 </div>
 
 <p align="center">
