@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:4158D0,50:C850C0,100:FFCC70&height=150&section=header&text=Mohammed%20Shahid&fontSize=60&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4158D0,50:C850C0,100:FFCC70&height=200&section=header&text=Mohammed%20Shahid&fontSize=60&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <h2 align="center">Hi there, I'm Mohammed 👋</h2>
 <p align="center">
@@ -82,4 +82,4 @@
   <img src="https://komarev.com/ghpvc/?username=mohammedshahid-dev&color=brightgreen&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:4158D0,50:C850C0,100:FFCC70&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4158D0,50:C850C0,100:FFCC70&height=120&section=footer" width="100%"/>
