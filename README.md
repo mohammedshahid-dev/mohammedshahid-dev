@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mohammed%20Shahid&fontSize=50&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mohammed&fontSize=50&animation=fadeIn" width="100%"/>
 
 <h2 align="center">Hi there, I'm Mohammed 👋</h2>
 <p align="center">
@@ -46,12 +46,12 @@
 
 ### 📊 GitHub Stats & Metrics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammedshahid-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedshahid-dev&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=mohammedshahid-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mohammedshahid-dev&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedshahid-dev&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=mohammedshahid-dev&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
