@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,100:23272e&height=200&section=header&text=Mohammed&fontSize=70&fontColor=39D353&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mohammed%20Shahid&fontSize=50&animation=fadeIn" width="100%"/>
 
 <h2 align="center">Hi there, I'm Mohammed 👋</h2>
 <p align="center">
@@ -33,6 +33,13 @@
   <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
   <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_Designer-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+</p>
+
+---
+
+### 💬 Daily Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </p>
 
 ---
