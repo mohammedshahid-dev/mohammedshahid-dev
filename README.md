@@ -19,7 +19,7 @@
 
 ---
 
-<img align="right" width="350" src="https://i.pinimg.com/originals/a0/fc/cb/a0fccb483c6b2ba72dbde30dc655d4d3.gif" alt="Pixel Art Coding GIF" />
+<img align="right" width="250" src="https://i.pinimg.com/originals/a0/fc/cb/a0fccb483c6b2ba72dbde30dc655d4d3.gif" alt="Pixel Art Coding GIF" />
 
 ### 👨‍💻 About Me
 * 🎓 Currently studying **Information Science and Engineering** at **Jyothy Institute of Technology**.
@@ -50,14 +50,14 @@
 
 ### 🤣 Random Dev Joke
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Dev Joke" />
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Dev Joke" width="700" />
 </p>
 
 ---
 
 ### 💬 Daily Dev Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote" width="700" />
 </p>
 
 ---
