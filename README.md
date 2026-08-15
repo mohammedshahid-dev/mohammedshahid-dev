@@ -19,13 +19,14 @@
 
 ---
 
-<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding Animation" />
+<img align="right" width="420" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding Animation" />
 
 ### 👨‍💻 About Me
-* 🎓 **ISE Undergraduate** at Jyothy Institute of Technology.
-* 💻 Passionate full-stack developer building scalable apps.
-* ⚡ Optimized workflows using **GitHub Copilot**.
-* 🚀 Focused on advanced **JavaScript** & backend systems.
+
+* 🌱 **Education:** Pursuing Information Science & Engineering at **Jyothy Institute of Technology**.
+* 💻 **Development:** Crafting full-stack web applications and robust architectures.
+* ⚡ **Workflow:** Powering up efficiency using **GitHub Copilot** & modern tooling.
+* 🚀 **Focus:** Deep-diving into advanced **JavaScript structures** and backend systems.
 
 <br clear="both"/>
 
