@@ -19,11 +19,15 @@
 
 ---
 
+<img align="right" width="400" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gitAnimations/nyan.gif" alt="Coding Animation" />
+
 ### 👨‍💻 About Me
 * 🎓 Currently studying **Information Science and Engineering** at **Jyothy Institute of Technology**.
 * 💻 Building full-stack applications and exploring scalable software architectures.
 * ⚡ Integrating tools like **GitHub Copilot** to optimize development workflows.
 * 🚀 Currently deep-diving into advanced **JavaScript data structures** and backend integrations.
+
+<br clear="both"/>
 
 ---
 
