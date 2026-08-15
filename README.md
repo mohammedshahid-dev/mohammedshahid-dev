@@ -19,15 +19,11 @@
 
 ---
 
-<img align="right" width="350" src="https://i.pinimg.com/originals/a0/fc/cb/a0fccb483c6b2ba72dbde30dc655d4d3.gif" alt="Pixel Art Coding GIF" />
-
 ### 👨‍💻 About Me
 * 🎓 Currently studying **Information Science and Engineering** at **Jyothy Institute of Technology**.
 * 💻 Building full-stack applications and exploring scalable software architectures.
 * ⚡ Integrating tools like **GitHub Copilot** to optimize development workflows.
 * 🚀 Currently deep-diving into advanced **JavaScript data structures** and backend integrations.
-
-<br clear="both"/>
 
 ---
 
@@ -48,18 +44,9 @@
 
 ---
 
-### 🤣 Random Dev Joke
+### 💬 Daily Dev Quote
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Dev Joke" />
-</p>
-
----
-
-### 🎵 Let's Listen Together
-<p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID" target="_blank">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=tokyonight&show_offline=true&background_color=0b0f19" alt="Spotify" />
-  </a>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote" />
 </p>
 
 ---
