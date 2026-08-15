@@ -19,7 +19,7 @@
 
 ---
 
-<img align="right" width="400" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gitAnimations/nyan.gif" alt="Coding Animation" />
+<img align="right" width="380" src="https://raw.githubusercontent.com/d3vdebug/pixelartgifs/master/Aseprite/coding.gif" alt="Coding Animation" />
 
 ### 👨‍💻 About Me
 * 🎓 Currently studying **Information Science and Engineering** at **Jyothy Institute of Technology**.
