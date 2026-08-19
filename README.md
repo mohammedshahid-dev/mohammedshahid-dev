@@ -70,7 +70,7 @@
 </div>
 
 <p align="center">
- <img src="https://streak-stats.demolab.com/?user=mohammedshahid-dev&theme=tokyonight&hide_border=true&v=1" alt="GitHub Streak" />
+ <img src="https://github-readme-streak-stats.vercel.app/api?user=mohammedshahid-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ### 📈 Recent Activity
