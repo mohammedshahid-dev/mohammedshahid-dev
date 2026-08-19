@@ -70,7 +70,7 @@
 </div>
 
 <p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedshahid-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+ <img src="profile/streak.svg" alt="GitHub Streak" />
 </p>
 
 ### 📈 Recent Activity
