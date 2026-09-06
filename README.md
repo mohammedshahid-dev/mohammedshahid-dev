@@ -24,7 +24,7 @@
 ### 👨‍💻 About Me
 
 * 🌱 **Education:** Pursuing Information Science & Engineering at **Jyothy Institute of Technology**.
-* 💻 **Development:** Crafting full-stack web applications and robust architectures.
+* 💻 **Development:** Crafting full-stack web applications and cobust architectures.
 * ⚡ **Workflow:** Powering up efficiency using **GitHub Copilot** & modern tooling.
 * 🚀 **Focus:** Deep-diving into advanced **JavaScript structures** and backend systems.
 
