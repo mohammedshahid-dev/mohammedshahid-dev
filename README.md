@@ -75,8 +75,7 @@
 
 ### 📈 Recent Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedshahid-dev&theme=tokyo-night&hide_border=true&area=true&bg_color=0b0f19&v=1" alt="Activity Graph" />
-
+  <img src="https://raw.githubusercontent.com/mohammedshahid-dev/mohammedshahid-dev/output/activity-graph.svg" alt="Activity Graph" />
 ---
 
 ### 🐍 Contribution Graph
