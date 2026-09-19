@@ -1,7 +1,7 @@
 name: Update Activity Graph
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *" 
   workflow_dispatch:
 
 jobs:
@@ -11,8 +11,14 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-      - name: Generate activity graph
-        uses: maurodesouza/github-readme-activity-graph-action@v1
-        with:
-          username: mohammedshahid-dev
-          options: 'theme=tokyo-night&hide_border=true&area=true&bg_color=0b0f19'
+      - name: Download Activity Graph
+        run: |
+          mkdir -p profile
+          curl -L "https://github-readme-activity-graph.vercel.app/graph?username=mohammedshahid-dev&theme=tokyo-night&hide_border=true&area=true&bg_color=0b0f19" -o profile/activity-graph.svg
+      - name: Commit Activity Graph
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/activity-graph.svg
+          git commit -m "Update activity graph" || exit 0
+          git push
