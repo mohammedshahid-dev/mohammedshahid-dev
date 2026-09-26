@@ -73,11 +73,6 @@
  <img src="profile/streak.svg" alt="GitHub Streak" />
 </p>
 
-### 🏙️ Contribution City
-<p align="center">
-  <img src="profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Blocks" />
-</p>
-
 ### 🐍 Contribution Graph
 <p align="center">
   <img src="https://raw.githubusercontent.com/mohammedshahid-dev/mohammedshahid-dev/output/github-contribution-grid-snake.svg?v=5" alt="Snake animation" />
