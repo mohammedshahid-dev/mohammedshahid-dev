@@ -75,7 +75,7 @@
 
 ### 🏙️ Contribution City
 <p align="center">
-  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Contribution City" />
+  <img src="profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Blocks" />
 </p>
 
 ### 🐍 Contribution Graph
