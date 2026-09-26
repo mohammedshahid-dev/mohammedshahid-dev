@@ -78,12 +78,24 @@
 ## 🌌 Developer Universe
 
 <p align="center">
-  <img src="./assets/developer-universe-animated.svg" alt="Mohammed Shahid Developer Universe" width="100%"/>
+
+<img src="./assets/developer-universe-fixed.svg"
+
+alt="Mohammed Shahid - Developer Universe"
+
+width="100%">
+
 </p>
 
+
+
 <p align="center">
-  <sub>Learn • Build • Break • Fix • Improve</sub>
-</p>
+
+<b>Learn • Build • Break • Fix • Improve</b>
+
+</p> 
+
+
 
 ---
 
