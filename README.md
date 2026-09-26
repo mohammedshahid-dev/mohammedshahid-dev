@@ -73,12 +73,19 @@
  <img src="profile/streak.svg" alt="GitHub Streak" />
 </p>
 
-### 📈 Recent Activity
-<p align="center">
-  <a href="https://github.com/mohammedshahid-dev">
-    <img src="https://github-readme-chess.vercel.app/api/board?theme=dark" alt="Interactive Chess" />
-  </a>
-</p>
+### 🎬 Active Protocol
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="120" />
+</div>
+
+> [!IMPORTANT]  
+> **MISSION CONTROL: FULL-STACK DEVELOPMENT**  
+> Currently architecting a comprehensive **Online Food Ordering App**. 
+
+> [!NOTE]  
+> **CURRENT FOCUS**  
+> Deep-diving into advanced JavaScript mechanics, crafting scalable backend environments, and establishing seamless UI workflows.
 
 ### 🐍 Contribution Graph
 <p align="center">
