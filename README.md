@@ -82,10 +82,6 @@
   <b>Learn • Build • Break • Fix • Improve</b>
 </p>
 
-<p align="center">
-  <b>Learn · Build · Break · Fix · Improve</b>
-</p>
-
 ---
 
 ### 🐍 Contribution Graph
