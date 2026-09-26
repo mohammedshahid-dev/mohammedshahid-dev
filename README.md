@@ -73,6 +73,20 @@
  <img src="profile/streak.svg" alt="GitHub Streak" />
 </p>
 
+---
+
+## 🌌 Developer Universe
+
+<p align="center">
+  <img src="./assets/developer-universe-animated.svg" alt="Mohammed Shahid Developer Universe" width="100%"/>
+</p>
+
+<p align="center">
+  <sub>Learn • Build • Break • Fix • Improve</sub>
+</p>
+
+---
+
 ### 🐍 Contribution Graph
 <p align="center">
   <img src="https://raw.githubusercontent.com/mohammedshahid-dev/mohammedshahid-dev/output/github-contribution-grid-snake.svg?v=5" alt="Snake animation" />
