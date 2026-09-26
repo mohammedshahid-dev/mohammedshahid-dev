@@ -76,7 +76,7 @@
 ---
 
 ### 🌐 Developer Universe
-<img src="https://raw.githubusercontent.com/mohammedshahid-dev/mohammedshahid-dev/main/assets/developer-universe-fixed.svg"
+<img src="https://raw.githubusercontent.com/mohammedshahid-dev/mohammedshahid-dev/main/assets/developer-universe-animated.svg"
      alt="Mohammed Shahid - Developer Universe"
      width="100%">
 
