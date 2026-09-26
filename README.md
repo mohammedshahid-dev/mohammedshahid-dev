@@ -75,7 +75,7 @@
 
 ### 🏙️ Contribution City
 <p align="center">
-  <img src="https://github-readme-3d-contrib.vercel.app/api?user=mohammedshahid-dev&theme=tokyonight" alt="3D Contribution City" />
+  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Contribution City" />
 </p>
 
 ### 🐍 Contribution Graph
