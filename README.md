@@ -75,7 +75,7 @@
 
 ### 📈 Recent Activity
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mohammedshahid-dev/mohammedshahid-dev/output/activity-graph.svg" alt="Activity Graph" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Actively+building+full-stack+web+applications...;Currently+working+on+Online-Food-Ordering-App...;Deep-diving+into+JavaScript+%26+backend+systems...;Consistently+pushing+code+and+leveling+up...!" alt="Recent Activity Terminal" />
 </p>
 
 ### 🐍 Contribution Graph
