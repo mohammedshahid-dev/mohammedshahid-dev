@@ -75,7 +75,7 @@
 
 ### 📈 Recent Activity
 <p align="center">
-  <img src="profile/activity-graph.svg" alt="Activity Graph" />
+  <img src="https://raw.githubusercontent.com/mohammedshahid-dev/mohammedshahid-dev/output/activity-graph.svg" alt="Activity Graph" />
 </p>
 
 ### 🐍 Contribution Graph
