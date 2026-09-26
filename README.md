@@ -73,19 +73,10 @@
  <img src="profile/streak.svg" alt="GitHub Streak" />
 </p>
 
-### 🎬 Active Protocol
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="120" />
-</div>
-
-> [!IMPORTANT]  
-> **MISSION CONTROL: FULL-STACK DEVELOPMENT**  
-> Currently architecting a comprehensive **Online Food Ordering App**. 
-
-> [!NOTE]  
-> **CURRENT FOCUS**  
-> Deep-diving into advanced JavaScript mechanics, crafting scalable backend environments, and establishing seamless UI workflows.
+### 🏙️ Contribution City
+<p align="center">
+  <img src="https://github-readme-3d-contrib.vercel.app/api?user=mohammedshahid-dev&theme=tokyonight" alt="3D Contribution City" />
+</p>
 
 ### 🐍 Contribution Graph
 <p align="center">
