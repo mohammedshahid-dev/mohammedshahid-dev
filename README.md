@@ -76,12 +76,10 @@
 ---
 
 ### 🌐 Developer Universe
+<img src="https://raw.githubusercontent.com/mohammedshahid-dev/mohammedshahid-dev/main/assets/developer-universe-animated.svg" alt="Mohammed Shahid - Developer Universe" width="100%">
+
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/mohammedshahid-dev/mohammedshahid-dev/main/assets/developer-universe-animated.svg"
-    alt="Mohammed Shahid - Developer Universe"
-    width="100%"
-  />
+  <b>Learn • Build • Break • Fix • Improve</b>
 </p>
 
 <p align="center">
